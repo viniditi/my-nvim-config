@@ -1,0 +1,17 @@
+Aqui ficaram os comandos que foram modificados no neo vim, para motivos de consultas futuras.
+
+- Normal | Ctrl + b: Abre o neotree na parte lateral esquerda do neo vim.
+
+- Normal | Ctrl + Tab: Faz com que o foco saia do arquivo que está sendo modificado e vá para o neotree e vice e versa.
+
+- Normal | Shift + H ou Shift + L: Faz com que mude de arquivo aberto no neo vim.
+
+- Insert ou Normal | Ctrl + S: Formata o arquivo e salva ele.
+
+- Normal | Espaço + b: Adiciona um break point para que o arquivo seja debugado.
+
+- Normal | Ctrl + \: Abre um terminal flutuante no meio da tela e deixa ele escondido.
+
+- Normal | Espaço + f + g: Abre uma tela de pesquisa para que possa pesquisar por textos específicos dentro de arquivos na mesma pasta ou outras pastas.
+
+- Normal | Espaço + p: Abre uma tela de pesquisa para pesquisar por nome de arquivos apenas.
