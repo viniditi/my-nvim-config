@@ -8,10 +8,22 @@ Aqui ficaram os comandos que foram modificados no neo vim, para motivos de consu
 
 - Insert ou Normal | Ctrl + S: Formata o arquivo e salva ele.
 
-- Normal | Espaço + b: Adiciona um break point para que o arquivo seja debugado.
-
 - Normal | Ctrl + \: Abre um terminal flutuante no meio da tela e deixa ele escondido.
 
 - Normal | Espaço + f + g: Abre uma tela de pesquisa para que possa pesquisar por textos específicos dentro de arquivos na mesma pasta ou outras pastas.
 
 - Normal | Espaço + p: Abre uma tela de pesquisa para pesquisar por nome de arquivos apenas.
+
+- Normal | Espaço + b: Adiciona um break point para que o arquivo seja debugado.
+
+- Normal | Espaço + c: Continua com o debug.
+
+- Normal | Espaço + n: Ativa o step_over do debug.
+
+- Normal | Espaço + i: Ativa o step_into do debug.
+
+- Normal | Espaço + o: Ativa o step_out do debug.
+
+- Normal | Espaço + r: Reinicia o debug.
+
+- Normal | Espaço + x: Finaliza o debug. 
