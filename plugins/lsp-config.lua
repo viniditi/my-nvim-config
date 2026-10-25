@@ -39,7 +39,7 @@ return {
 
         severity_sort = true,
 
-        update_in_insert = false,
+        update_in_insert = true,
 
         float = {
           border = "rounded",
